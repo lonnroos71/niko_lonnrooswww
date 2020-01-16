@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(24, 36, 77);
+    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+    font-size: 24px;
+    color: rgb(231, 190, 7)
+
+}
+
+h1{
+    border-bottom: blue;
+    font-size: 16px;
+    color: rgb(231, 19, 12);
+
+
+}
+a{
+    color: rgb(231, 15, 15);
+text-decoration-color: rgb(224, 166, 6);
+
+}
+a:hover{
+
+    font-size: 200%;
+}
+
+figure {
+float: right;
+width: 30;
+text-align: center;
+font-style: italic;
+font-size: small;
+border: thin rgb(218, 17, 17) solid;
+margin: 0.5em;
+padding: 0.5em;
+
+}
