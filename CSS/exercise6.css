@@ -27,8 +27,8 @@ ul{
   
   
   li a:hover {
-    background-color: rgb(213, 219, 219);
-    color: grey;
+    
+    color: rgb(15, 14, 14);
   }
  a{
      color: black;
@@ -39,3 +39,8 @@ ul{
      color: rgb(10, 10, 10);
      
  }
+ a:hover{
+    
+        font-size: 250%;
+    }
+    
