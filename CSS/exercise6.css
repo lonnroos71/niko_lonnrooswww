@@ -1,0 +1,41 @@
+body{
+    background-color:whitesmoke;
+    background-image: url(pilvi.jpg);
+}
+ header{
+     text-align: center;
+     font-size: 400px;
+ }
+
+
+.container{
+    background-color: whitesmoke;
+    max-width: 1250px;
+    
+}
+
+  .bluebg{
+    background-color: whitesmoke;
+}
+.row{
+    margin: 30px;
+   color: black;
+}
+ul{
+    list-style: none;
+}
+  
+  
+  li a:hover {
+    background-color: rgb(213, 219, 219);
+    color: grey;
+  }
+ a{
+     color: black;
+ }
+ footer{
+     margin:  30px;
+     border: 40px;
+     color: rgb(10, 10, 10);
+     
+ }
