@@ -1,16 +1,17 @@
 header{
 text-align:  center;
 height: 150px;
-background-color: rgb(241, 21, 21);
+background-color: whitesmoke;
 font-size: 100px;
+color: red;
 
 }
 
 body{
-    background-color: khaki;
+    background-color:whitesmoke;
     font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
     font-size: 24px;
-    color:rgb(22, 21, 19);
+    color:rgb(8, 8, 8);
 
 }
 ul {
@@ -18,7 +19,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: rgb(227, 235, 122);
+    background-color: khaki;
   }
   
   li {
@@ -35,7 +36,7 @@ ul {
   
   
   li a:hover {
-    background-color: rgb(226, 90, 11);
+    background-color: whitesmoke;
   }
   .active {
     background-color: rgb(148, 67, 64);
@@ -43,8 +44,9 @@ ul {
   footer{
     text-align:  center;
     height: 150px;
-    background-color: rgb(241, 20, 20);
+    background-color: whitesmoke;
     font-size: 40px;
+    color: red;
     
 
   }
@@ -53,7 +55,7 @@ float: left;
 width: 200px;
 height: 500x;
 margin: 10px;
-background-color: rgb(240, 185, 140);
+background-color: khaki;
 min-height: 10px;
 
  }
